@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: More Expert Systems [Patient Monitoring]
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/hst-950j-medical-computing-spring-2003/f61c333380bb07bc9b46973db162770a_lecture19.pdf
+file: /media/courses/hst-950j-medical-computing-spring-2003/f61c333380bb07bc9b46973db162770a_lecture19.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture19.pdf
 uid: f61c3333-80bb-07bc-9b46-973db162770a
