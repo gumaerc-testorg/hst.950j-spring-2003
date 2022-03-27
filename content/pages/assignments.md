@@ -37,9 +37,9 @@ Below are files associated with Homework 2:
 
 *   [index.jsp]({{< baseurl >}}/resources/index_jsp)
 *   [pt.jsp]({{< baseurl >}}/resources/pt_jsp)
-*   [SqlAccess.java](/courses/health-sciences-and-technology/hst-950j-medical-computing-spring-2003/assignments/sqlaccess_java.txt)
+*   [SqlAccess.java]({{< baseurl >}}/resources/sqlaccess_java)
 *   [Entity.java](/courses/health-sciences-and-technology/hst-950j-medical-computing-spring-2003/assignments/entity_java.txt)
-*   [EnglishName.java](/courses/health-sciences-and-technology/hst-950j-medical-computing-spring-2003/assignments/englishname_java.txt)
+*   [EnglishName.java]({{< baseurl >}}/resources/englishname_java)
 
 **Homework 3** ([PDF]({{< baseurl >}}/resources/hw3))  
 **  
