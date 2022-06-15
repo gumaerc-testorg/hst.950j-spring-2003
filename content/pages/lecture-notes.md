@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
 title: Lecture Notes
 uid: f9a7b558-2759-4948-5817-d8e1aaeea3d3
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
@@ -25,7 +30,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction: Nature of Modern Medicine and Medical Practice ([PDF]({{< baseurl >}}/resources/lecture1)) 
+Introduction: Nature of Modern Medicine and Medical Practice ({{% resource_link cfe33fec-153d-9158-6af3-527e983b4f75 "PDF" %}}) 
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -34,7 +39,7 @@ Introduction: Nature of Modern Medicine and Medical Practice ([PDF]({{< baseurl 
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Nature of Medical Data: Where it is and Where it is Not ([PDF]({{< baseurl >}}/resources/lecture2))
+Nature of Medical Data: Where it is and Where it is Not ({{% resource_link 49095d62-8dec-2104-d658-c0752b939c0b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +57,7 @@ Genomics in Medicine: Centrality of Bioinformatics
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Patient Identification ([PDF]({{< baseurl >}}/resources/lecture4))
+Patient Identification ({{% resource_link 21443a6d-64f3-499e-0518-ab5fb15b9050 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -61,7 +66,7 @@ Patient Identification ([PDF]({{< baseurl >}}/resources/lecture4))
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Countering Bioterrorism ([PDF]({{< baseurl >}}/resources/lecture5))
+Countering Bioterrorism ({{% resource_link 60b1dd8b-0e68-89eb-352d-7f458d8a8905 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -88,7 +93,7 @@ Computing Support for the Enterprise
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Diagnosis, Standards, Codification ([PDF]({{< baseurl >}}/resources/lecture8))
+Diagnosis, Standards, Codification ({{% resource_link 982efb8c-a57f-8526-fe18-a2b8fcdf1b31 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -97,7 +102,7 @@ Diagnosis, Standards, Codification ([PDF]({{< baseurl >}}/resources/lecture8))
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Patient Data Confidentiality and Security ([PDF]({{< baseurl >}}/resources/lecture9))
+Patient Data Confidentiality and Security ({{% resource_link 00dc1598-e1ea-6253-da55-d3d397b53a1a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -106,7 +111,7 @@ Patient Data Confidentiality and Security ([PDF]({{< baseurl >}}/resources/lectu
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Decreasing Variability in Health Care ([PDF]({{< baseurl >}}/resources/lecture10))
+Decreasing Variability in Health Care ({{% resource_link e226294b-826f-3632-6280-9d0b261a425a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -142,7 +147,7 @@ Telemedicine
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Genomic Medicine I: Population Genetics in the Post Genomic Era ([PDF]({{< baseurl >}}/resources/lecture14))
+Genomic Medicine I: Population Genetics in the Post Genomic Era ({{% resource_link 915a3588-44ba-21cf-61e7-35cf6fffaa66 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -178,7 +183,7 @@ Getting to Causality in Functional Genomics
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Advanced Expert Systems ([PDF]({{< baseurl >}}/resources/lecture18))
+Advanced Expert Systems ({{% resource_link 0210830c-5d03-c1f4-e0c9-9dd6979e342b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -187,7 +192,7 @@ Advanced Expert Systems ([PDF]({{< baseurl >}}/resources/lecture18))
 19
 {{< tdclose >}}
 {{< tdopen >}}
-Patient Monitoring ([PDF]({{< baseurl >}}/resources/lecture19))
+Patient Monitoring ({{% resource_link f61c3333-80bb-07bc-9b46-973db162770a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -205,7 +210,7 @@ Genomic Medicine III: Introduction to Genomics
 21
 {{< tdclose >}}
 {{< tdopen >}}
-Genomic Medicine IV: Linking Genotypes and Phenotypes ([PDF]({{< baseurl >}}/resources/lecture21))
+Genomic Medicine IV: Linking Genotypes and Phenotypes ({{% resource_link 93de3176-48ef-af04-f98f-afa7e90acd20 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -214,7 +219,7 @@ Genomic Medicine IV: Linking Genotypes and Phenotypes ([PDF]({{< baseurl >}}/res
 22
 {{< tdclose >}}
 {{< tdopen >}}
-Genomic Medicine V: Reverse Engineering ([PDF]({{< baseurl >}}/resources/lecture22))
+Genomic Medicine V: Reverse Engineering ({{% resource_link f43e41c8-175e-11a0-6793-410d5bfd9b58 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

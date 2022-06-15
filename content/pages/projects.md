@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: Examples of final research projects.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
 title: Projects
 uid: 0246a200-1a22-8266-c8f0-f4edb1276c79
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 The last four class sessions will be an opportunity for students to present the results of significant research projects done for the class.  We encourage you to team up (in teams of two or three students) to work on projects, and teams that span students with different interests, skills and approaches are encouraged. Below is a set of example projects for the final project. Some of these were prior final projects.

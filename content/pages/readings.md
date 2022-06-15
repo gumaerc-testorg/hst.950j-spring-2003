@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: ebadf08b-8fa9-05f4-646c-67ecc77d2f33
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 The following text is required for the course and is referenced in the calendar of readings listed in the table below. Shortliffe, E. H., L. E. Perreault, G. Wiederhold, and L. M. Fagan. _Medical Informatics: Computer Applications in Health Care and Biomedicine_ . 2nd ed. New York, NY: Springer, 2003. ISBN: 9780387984728.
