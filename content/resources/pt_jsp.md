@@ -5,6 +5,7 @@ file: /courses/hst-950j-medical-computing-spring-2003/ac9b2708dab06db01f7090d21d
 file_type: application/octet-stream
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 pt.jsp
-

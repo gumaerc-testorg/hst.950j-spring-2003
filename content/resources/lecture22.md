@@ -6,6 +6,7 @@ file: /courses/hst-950j-medical-computing-spring-2003/f43e41c8175e11a06793410d5b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Modeling and Reverse Engineering Genetic Networks - Introduction to Systems Biology
-

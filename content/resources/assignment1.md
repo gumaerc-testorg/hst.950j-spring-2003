@@ -5,6 +5,7 @@ file: /courses/hst-950j-medical-computing-spring-2003/2c53f7d4941f1e6a83888b053f
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Homework 1. Problem Set 1
-

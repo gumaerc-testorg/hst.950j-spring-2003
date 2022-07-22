@@ -5,6 +5,7 @@ file: /courses/hst-950j-medical-computing-spring-2003/727aeaefc472db3914f1144d59
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: sqlaccess_java.txt
 uid: 727aeaef-c472-db39-14f1-144d592d3e39
 ---
 SqlAccess.java
-
