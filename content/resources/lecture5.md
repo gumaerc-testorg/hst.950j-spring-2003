@@ -2,6 +2,7 @@
 content_type: resource
 description: Infrastructure and Methods to Support Real Time Biosurveillance
 file: /courses/hst-950j-medical-computing-spring-2003/60b1dd8b0e6889eb352d7f458d8a8905_lecture5.pdf
+file_size: 885078
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

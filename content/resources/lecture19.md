@@ -2,6 +2,7 @@
 content_type: resource
 description: More Expert Systems [Patient Monitoring]
 file: /courses/hst-950j-medical-computing-spring-2003/f61c333380bb07bc9b46973db162770a_lecture19.pdf
+file_size: 338361
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

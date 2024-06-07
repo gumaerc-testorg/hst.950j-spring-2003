@@ -2,6 +2,7 @@
 content_type: resource
 description: Health Enterprise Computing and Patient Identification
 file: /courses/hst-950j-medical-computing-spring-2003/21443a6d64f3499e0518ab5fb15b9050_lecture4.pdf
+file_size: 746399
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
