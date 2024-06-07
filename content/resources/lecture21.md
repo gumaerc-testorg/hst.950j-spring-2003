@@ -2,6 +2,7 @@
 content_type: resource
 description: Linking Genotypes and Phenotypes
 file: /courses/hst-950j-medical-computing-spring-2003/93de317648efaf04f98fafa7e90acd20_lecture21.pdf
+file_size: 377976
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
