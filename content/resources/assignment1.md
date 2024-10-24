@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Homework 1. Problem Set 1
-file: /courses/hst-950j-medical-computing-spring-2003/2c53f7d4941f1e6a83888b053fb50f80_assignment1.pdf
+file: /ol-ocw-studio-app/courses/hst-950j-medical-computing-spring-2003/2c53f7d4941f1e6a83888b053fb50f80_assignment1.pdf
 file_size: 222607
 file_type: application/pdf
 learning_resource_types:
