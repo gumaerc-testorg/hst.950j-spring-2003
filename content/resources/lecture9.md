@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Patient Data Privacy in Electronic Records
-file: /ol-ocw-studio-app/courses/hst-950j-medical-computing-spring-2003/00dc1598e1ea6253da55d3d397b53a1a_lecture9.pdf
+file: /courses/hst-950j-medical-computing-spring-2003/00dc1598e1ea6253da55d3d397b53a1a_lecture9.pdf
 file_size: 370507
 file_type: application/pdf
 learning_resource_types:

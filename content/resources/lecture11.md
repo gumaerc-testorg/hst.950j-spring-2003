@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Decreasing Variability in Health Care
-file: /ol-ocw-studio-app/courses/hst-950j-medical-computing-spring-2003/d6f1dca12e947e45fdac96c2f85071bb_Lecture11.pdf
+file: /courses/hst-950j-medical-computing-spring-2003/d6f1dca12e947e45fdac96c2f85071bb_Lecture11.pdf
 file_size: 329061
 file_type: application/pdf
 learning_resource_types:

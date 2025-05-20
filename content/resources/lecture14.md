@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Population Genetics in the Post-Genomic Era
-file: /ol-ocw-studio-app/courses/hst-950j-medical-computing-spring-2003/915a358844ba21cf61e735cf6fffaa66_lecture14.pdf
+file: /courses/hst-950j-medical-computing-spring-2003/915a358844ba21cf61e735cf6fffaa66_lecture14.pdf
 file_size: 355442
 file_type: application/pdf
 learning_resource_types:

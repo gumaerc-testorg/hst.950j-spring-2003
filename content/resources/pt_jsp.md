@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: pt.jsp
-file: /ol-ocw-studio-app/courses/hst-950j-medical-computing-spring-2003/ac9b2708dab06db01f7090d21d645139_pt_jsp.txt
+file: /courses/hst-950j-medical-computing-spring-2003/ac9b2708dab06db01f7090d21d645139_pt_jsp.txt
 file_size: 3748
 file_type: application/octet-stream
 learning_resource_types:
