@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Intro to Medical Informatics [Introduction: Nature of Modern Medicine
   and Medical Practice]'
-file: /ol-ocw-studio-app/courses/hst-950j-medical-computing-spring-2003/cfe33fec153d91586af3527e983b4f75_lecture1.pdf
+file: /courses/hst-950j-medical-computing-spring-2003/cfe33fec153d91586af3527e983b4f75_lecture1.pdf
 file_size: 526614
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /ol-ocw-studio-app/courses/hst-950j-medical-computing-spring-2003/476d085587fe11a5ab73d4576dcfff10_hst-950js03-th.jpg
+file: /courses/hst-950j-medical-computing-spring-2003/476d085587fe11a5ab73d4576dcfff10_hst-950js03-th.jpg
 file_size: 3611
 file_type: image/jpeg
 image_metadata:

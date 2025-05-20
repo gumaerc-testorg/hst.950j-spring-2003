@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: SqlAccess.java
-file: /ol-ocw-studio-app/courses/hst-950j-medical-computing-spring-2003/727aeaefc472db3914f1144d592d3e39_sqlaccess_java.txt
+file: /courses/hst-950j-medical-computing-spring-2003/727aeaefc472db3914f1144d592d3e39_sqlaccess_java.txt
 file_size: 10270
 file_type: text/plain
 learning_resource_types:
