@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Homework Assignment 2
-file: /courses/hst-950j-medical-computing-spring-2003/8a635fafe124005ee38d362be1399fbf_hw2.pdf
+file: /ol-ocw-studio-app/courses/hst-950j-medical-computing-spring-2003/8a635fafe124005ee38d362be1399fbf_hw2.pdf
 file_size: 280499
 file_type: application/pdf
 learning_resource_types:
