@@ -237,7 +237,7 @@ Lander, Eric S. "Array of hope." _Nature Genetics Supplement _ 21 (1999): Ca
   
 
 "Large-Scale Identification, Mapping, and Genotyping of Single-Nucleotide Polymorphisms in the Human Genome." _Science_ 280 (15 May 1998): 1077.  
-[http://www.sciencemag.org](http://www.sciencemag.org/)
+{{% resource_link "0807c7d4-2ca5-4ed0-a362-b5c675069d54" "http://www.sciencemag.org" %}}
 
 
 {{< tdclose >}}
@@ -284,7 +284,7 @@ Getting to Causality in Functional Genomics
 
 
 "The Transcriptional Program in the Response of Human Fibroblasts to Serum." _Science_ 283 (1 Jan. 1999).  
-[www.sciencemag.org](http://www.sciencemag.org/)  
+{{% resource_link "0807c7d4-2ca5-4ed0-a362-b5c675069d54" "www.sciencemag.org" %}}  
   
 
 Ramoni, Marco F., Paola Sebastiani, and Isaac S. Kohane. "Cluster Analysis of Gene Expression Dynamics." _PNAS._ Edited by Louis M. Kunkel.
