@@ -14,7 +14,7 @@ video_metadata:
 
 The last four class sessions will be an opportunity for students to present the results of significant research projects done for the class.  We encourage you to team up (in teams of two or three students) to work on projects, and teams that span students with different interests, skills and approaches are encouraged. Below is a set of example projects for the final project. Some of these were prior final projects.
 
-1.  Calculate which documents at Pubmed (see [http://www.ncbi.nlm.nih.gov](http://www.ncbi.nlm.nih.gov)) are the closest to any patient's context based on a problem list. You can use the problem list from the Clinician's Workstation database (an available clinical database for the class).
+1.  Calculate which documents at Pubmed (see {{% resource_link "8f05c34b-b0a2-4f78-829e-cdb716b643c1" "http://www.ncbi.nlm.nih.gov" %}}) are the closest to any patient's context based on a problem list. You can use the problem list from the Clinician's Workstation database (an available clinical database for the class).
 2.  Use the Gene Ontology nomenclature to cluster gene results in a microarray experiment based on how close two genes are in the literature citing them.
 3.  Translate the CWS (or other clinical database) relational database into an XML stream and re-constitute the data in a better normalized data model. Compare your effort and results when the "better" data model is a generic model vs. one containing many distinct tables.
 4.  Implement role-based access to the CWS (or other clinical database). Implement cryptographic authentication. Describe the weaknesses of your approach and how you would compromise privacy in your system if you were a medical knave.
